@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T18:48:31.637Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MYv28whJPaXxp88vWvel" version="14.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-01-19T16:59:41.113Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3ZdWoDuusywLHrCYAN9-" version="14.2.4" type="github" pages="8">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1782" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1225,6 +1225,17 @@
         </mxCell>
         <mxCell id="J5i-Ja8_LvwSjXoksJoj-5" value="&lt;h1&gt;Sample Versicherung anbieten&lt;/h1&gt;&lt;div&gt;Da der Copyright Markt auf der einen Seite extrem streng ist was Urheberschutz angeht, auf der anderen Seite der Nachweis ein aufwendiger und teurer Prozess ist (deswegen existiert GEMA) wird immer Unsichreheit beim Recreator herrschen (besonders wenn man ein Sample verwendet, dass wiederum Dependencies zu anderen Samples hat). Deswegen wird es eine hausinterne Versicherung geben, die nach dem Solidaritätsprinzip einen gewissen Prozentsatz des Gewinns der öffentliche Tracks im Musikmarkt einbehält. Je mehr Gewinn und öffentliche Aufmerksamkeit eine Produktion einbehält, desto größer ist die Gefahr einer Klage. Daher ist eine prozentbasierte gewinnabhängige und gleichzeitig soldarische (voralemm Marketingaspekt hier beachten) angebracht.c&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="J5i-Ja8_LvwSjXoksJoj-1">
           <mxGeometry x="50" y="220" width="700" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2qPv6G_7xExE2CEXqhX-" name="frontend_backlog_ideas">
+    <mxGraphModel dx="955" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="B4sycmAy363-Lx4ezqzX-0" />
+        <mxCell id="B4sycmAy363-Lx4ezqzX-1" parent="B4sycmAy363-Lx4ezqzX-0" />
+        <mxCell id="B4sycmAy363-Lx4ezqzX-2" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Beobachtungsstern (Add to watchList) direkt auf Soundkarte im Sample Licensing Markt&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;shadow=0;" vertex="1" parent="B4sycmAy363-Lx4ezqzX-1">
+          <mxGeometry x="69" y="31" width="610" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

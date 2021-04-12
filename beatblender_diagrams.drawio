@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T17:16:00.679Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2H7ZYwZ7j74ZLuBjJa9h" version="14.4.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-04-12T20:02:24.455Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kVYVFjRnFRCzLKV0bSkV" version="14.4.8" type="github" pages="10">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1782" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1325,10 +1325,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2GO9nX1c70Nbyi9F_9Mc" name="licensing-process">
-    <mxGraphModel dx="3969" dy="2796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3440" dy="2779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0meW8ngon0j814gWl_7G-0" />
         <mxCell id="0meW8ngon0j814gWl_7G-1" parent="0meW8ngon0j814gWl_7G-0" />
+        <mxCell id="OrJSanjaeswCeqk2MSAv-100" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#fafafa;fillColor=#fafafa;labelBorderColor=none;noLabel=1;fontColor=none;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="-730" y="-340.00000000000006" width="2230" height="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="OrJSanjaeswCeqk2MSAv-101" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontColor=none;dashed=1;strokeColor=#8A8A8A;fillColor=#ededed;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="70" y="-10" width="1290" height="810" as="geometry" />
+        </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-4" value="" style="group" vertex="1" connectable="0" parent="0meW8ngon0j814gWl_7G-1">
           <mxGeometry x="190" y="90" width="350" height="590" as="geometry" />
         </mxCell>
@@ -1383,9 +1389,6 @@
         <mxCell id="OrJSanjaeswCeqk2MSAv-51" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Option Status: Inactive&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OrJSanjaeswCeqk2MSAv-22">
           <mxGeometry x="17.5" y="401.32" width="182.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-79" value="&lt;font style=&quot;font-size: 36px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#fafafa;fontColor=#6a6c74;" vertex="1" parent="OrJSanjaeswCeqk2MSAv-4">
-          <mxGeometry x="280" y="520" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-23" value="" style="group" vertex="1" connectable="0" parent="0meW8ngon0j814gWl_7G-1">
           <mxGeometry x="860" y="80" width="357.5" height="501.32" as="geometry" />
         </mxCell>
@@ -1428,7 +1431,7 @@
         <mxCell id="OrJSanjaeswCeqk2MSAv-43" value="" style="group" vertex="1" connectable="0" parent="0meW8ngon0j814gWl_7G-1">
           <mxGeometry x="570" y="620" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-41" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Spend your earned Karma Points ...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OrJSanjaeswCeqk2MSAv-43">
+        <mxCell id="OrJSanjaeswCeqk2MSAv-41" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#6a6c74&quot;&gt;Spend your earned Karma Points ...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OrJSanjaeswCeqk2MSAv-43">
           <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/money-128.png;fillColor=#FF0000;" vertex="1" parent="OrJSanjaeswCeqk2MSAv-43">
@@ -1452,22 +1455,22 @@
         <mxCell id="OrJSanjaeswCeqk2MSAv-59" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Role: Copyright Owner&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#00CC66;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
           <mxGeometry x="-260" y="210.66000000000005" width="90" height="199.34" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-75" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0meW8ngon0j814gWl_7G-1" target="OrJSanjaeswCeqk2MSAv-92">
+        <mxCell id="OrJSanjaeswCeqk2MSAv-75" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0meW8ngon0j814gWl_7G-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-215" y="200" as="targetPoint" />
+            <mxPoint x="-546" y="200" as="targetPoint" />
             <mxPoint x="-10" y="-90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-66" value="&lt;span style=&quot;font-size: 24px&quot;&gt;Role: Sample User&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#00CC66;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="20" y="-190" width="90" height="199.34" as="geometry" />
+          <mxGeometry x="20" y="-260" width="90" height="199.34" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-72" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="0meW8ngon0j814gWl_7G-1" source="OrJSanjaeswCeqk2MSAv-92" target="OrJSanjaeswCeqk2MSAv-24">
+        <mxCell id="OrJSanjaeswCeqk2MSAv-72" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endWidth=12.5;endSize=10.825;" edge="1" parent="0meW8ngon0j814gWl_7G-1" target="OrJSanjaeswCeqk2MSAv-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-360" y="280" as="targetPoint" />
-            <mxPoint x="-560" y="690" as="sourcePoint" />
+            <mxPoint x="-540" y="420" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-546" y="690" />
-              <mxPoint x="1077" y="690" />
+              <mxPoint x="360" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1477,66 +1480,82 @@
             <mxPoint x="-150" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-70" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="0meW8ngon0j814gWl_7G-1" source="OrJSanjaeswCeqk2MSAv-0">
+        <mxCell id="OrJSanjaeswCeqk2MSAv-70" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0meW8ngon0j814gWl_7G-1" source="OrJSanjaeswCeqk2MSAv-0" target="OrJSanjaeswCeqk2MSAv-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="-90" as="targetPoint" />
             <mxPoint x="550" y="70" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="361" y="-90" />
-              <mxPoint x="150" y="-90" />
+              <mxPoint x="361" y="-160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/feather-2/24/refresh-cw-128.png;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#00CC66;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="-340" y="-240" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-76" value="&lt;h1&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;Licensing Process&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="490" y="-20" width="570" height="20" as="geometry" />
+        <mxCell id="OrJSanjaeswCeqk2MSAv-76" value="&lt;h1&gt;&lt;font style=&quot;font-size: 48px&quot; data-font-src=&quot;&amp;lt;link rel=&amp;#34;preconnect&amp;#34; href=&amp;#34;https://fonts.gstatic.com&amp;#34;&amp;gt; &amp;lt;link href=&amp;#34;https://fonts.googleapis.com/css2?family=Roboto&amp;amp;display=swap&amp;#34; rel=&amp;#34;stylesheet&amp;#34;&amp;gt;&quot;&gt;Our Licensing Process&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="840" y="-210" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-78" value="&lt;font style=&quot;font-size: 36px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#fafafa;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="-130" y="140.66" width="70" height="70" as="geometry" />
+          <mxGeometry x="-140" y="190" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-81" value="&lt;span style=&quot;font-size: 36px&quot;&gt;4&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#fafafa;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="-448" y="-185" width="70" height="70" as="geometry" />
+          <mxGeometry x="-440" y="-210" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-82" value="&lt;font style=&quot;font-size: 36px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#fafafa;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="80" y="400" width="70" height="70" as="geometry" />
+          <mxGeometry x="-50" y="375" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-83" value="&lt;font style=&quot;font-size: 36px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#fafafa;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="150" y="-220" width="70" height="70" as="geometry" />
+          <mxGeometry x="150" y="-270" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-86" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Produce a new Track that contains the sample and reupload it.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="-360" y="-185" width="220" height="70" as="geometry" />
+        <mxCell id="OrJSanjaeswCeqk2MSAv-86" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Produce a new Track that contains the sample and reupload it.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="-340" y="-200" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-87" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Upload a Sample&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="-170" y="220" width="220" height="70" as="geometry" />
+        <mxCell id="OrJSanjaeswCeqk2MSAv-87" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Upload a Sample&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="-50" y="190" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-88" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Download a Sample. Every Sample is downloaded initially as Basic License that guarantees you a bunch of Commercial Usage Rights. Every Basic License also includes an Extension Option that can be activeated by earning Karma Points.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="250" y="-245" width="430" height="120" as="geometry" />
+        <mxCell id="OrJSanjaeswCeqk2MSAv-88" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Download a Sample. Every Sample is downloaded initially as Basic License that guarantees you a bunch of Commercial Usage Rights. Every Basic License also includes an Extension Option that can be activeated by earning Karma Points.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="360" y="-280" width="430" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-89" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Every time someone downloads a Basic License for your sample, you receive Karma Points from BeatBlender&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="-110" y="465" width="280" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/music-note-128.png;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#fafafa;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="-610" y="234.5" width="128" height="128" as="geometry" />
+        <mxCell id="OrJSanjaeswCeqk2MSAv-89" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Every time someone downloads a Basic License for your sample, you receive Karma Points from BeatBlender&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="-140" y="480" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-94" value="&lt;span style=&quot;font-size: 36px&quot;&gt;5&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#fafafa;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
           <mxGeometry x="-490" y="200" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-95" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Track&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="-566" y="340" width="40" height="20" as="geometry" />
+        <mxCell id="OrJSanjaeswCeqk2MSAv-95" value="&lt;font style=&quot;font-size: 36px&quot;&gt;New Track&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="-635.5" y="370" width="197" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-96" value="" style="group" vertex="1" connectable="0" parent="0meW8ngon0j814gWl_7G-1">
           <mxGeometry x="790" y="710" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-50" value="&lt;font style=&quot;font-size: 18px&quot;&gt;... to activate your license option.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OrJSanjaeswCeqk2MSAv-96">
+        <mxCell id="OrJSanjaeswCeqk2MSAv-50" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#6a6c74&quot;&gt;... to activate your license option.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OrJSanjaeswCeqk2MSAv-96">
           <mxGeometry x="70" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#00CC66;" vertex="1" parent="OrJSanjaeswCeqk2MSAv-96">
           <mxGeometry y="2.5" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="OrJSanjaeswCeqk2MSAv-97" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Use Sample of Copyright Owner&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
-          <mxGeometry x="-413" y="210.66" width="160" height="55" as="geometry" />
+        <mxCell id="OrJSanjaeswCeqk2MSAv-97" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Use Sample of Copyright Owner&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="-420" y="148.16" width="193" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OrJSanjaeswCeqk2MSAv-79" value="&lt;font style=&quot;font-size: 36px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#fafafa;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="110" y="710" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OrJSanjaeswCeqk2MSAv-102" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#6a6c74&quot;&gt;Reupload your Track to beatBlender Music&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="210" y="730" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OrJSanjaeswCeqk2MSAv-103" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.62;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=none;" edge="1" parent="0meW8ngon0j814gWl_7G-1" source="OrJSanjaeswCeqk2MSAv-0" target="OrJSanjaeswCeqk2MSAv-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="451" y="680" />
+              <mxPoint x="1082" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrJSanjaeswCeqk2MSAv-104" value="&lt;font style=&quot;font-size: 36px&quot;&gt;7&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#00006B;fillColor=#fafafa;fontColor=#6a6c74;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="480" y="700" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OrJSanjaeswCeqk2MSAv-105" value="&lt;h1&gt;&lt;font style=&quot;font-size: 34px&quot;&gt;BeatBlender.com&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;sketch=0;fontColor=none;fontSize=34;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="450" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OrJSanjaeswCeqk2MSAv-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/files-folders-3/24/files-folders-13-128.png;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#8A8A8A;fillColor=#ededed;fontColor=none;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
+          <mxGeometry x="-584" y="240" width="94" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

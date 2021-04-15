@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T22:13:03.988Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="w0-bXGbephnYYfTnOXuA" version="14.4.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-04-15T19:24:00.679Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="biLJuI9gTUo6FBF6hghx" version="14.5.10" type="github" pages="12">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
-    <mxGraphModel dx="1782" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1554,6 +1554,28 @@
         </mxCell>
         <mxCell id="OrJSanjaeswCeqk2MSAv-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/files-folders-3/24/files-folders-13-128.png;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#8A8A8A;fillColor=#ededed;fontColor=none;" vertex="1" parent="0meW8ngon0j814gWl_7G-1">
           <mxGeometry x="-572.75" y="510" width="92.5" height="92.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="n6sX2kPfpI7bP6Dw22Gi" name="Landing_Page">
+    <mxGraphModel dx="1119" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qqAMKEA0j-O1rBHY32q9-0" />
+        <mxCell id="qqAMKEA0j-O1rBHY32q9-1" parent="qqAMKEA0j-O1rBHY32q9-0" />
+        <mxCell id="qqAMKEA0j-O1rBHY32q9-2" value="1. Spruchbanner&lt;br&gt;2. Home Section - BeatBlender als 3-In-One Solution&lt;br&gt;3. Spruchbanner&lt;br&gt;4. Discover Music that was made possible because of BeatBlender&lt;br&gt;5. The Basic License creates a place where everything is possible&lt;br&gt;6. Unlimited Chances at BeatBlender&lt;br&gt;7. The Basic License is the heaven for every musician&lt;br&gt;8. Supporting a free sampling movement&lt;br&gt;9. Protecting your intelectual property and still supporting a free sample culture&lt;br&gt;10.&amp;nbsp; &amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qqAMKEA0j-O1rBHY32q9-1">
+          <mxGeometry x="144" y="-30" width="540" height="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7LMMq_fuzNChxseMahMr" name="Kernaspekte Business Modell">
+    <mxGraphModel dx="1119" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="EeOxjn0uhUz7IlRKaDo3-0" />
+        <mxCell id="EeOxjn0uhUz7IlRKaDo3-1" parent="EeOxjn0uhUz7IlRKaDo3-0" />
+        <mxCell id="EeOxjn0uhUz7IlRKaDo3-2" value="Kundenbindung / Community&lt;br&gt;Marke / Branding&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="EeOxjn0uhUz7IlRKaDo3-1">
+          <mxGeometry x="220" y="100" width="350" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

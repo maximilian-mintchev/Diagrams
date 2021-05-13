@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T23:03:29.387Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="PkOcfiMHl7BTwcdmsbp8" version="14.6.12" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-05-13T23:04:55.818Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZwMQGcckqQf_qGZirQgQ" version="14.6.12" type="github" pages="16">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2025,7 +2025,7 @@
           <mxGeometry x="140" y="370" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_dDYHn9aPqY9ITlpKH3U-12" value="BeatBlender" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_dDYHn9aPqY9ITlpKH3U-1">
-          <mxGeometry x="480" y="545" width="186" height="80" as="geometry" />
+          <mxGeometry x="450" y="560" width="190" height="65" as="geometry" />
         </mxCell>
         <mxCell id="_dDYHn9aPqY9ITlpKH3U-13" value="Soundcloud früher&lt;br&gt;(Geschäftsmodell basiert auf kriminellen Motiven)" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="_dDYHn9aPqY9ITlpKH3U-1">
           <mxGeometry x="210" y="450" width="186" height="80" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T23:19:38.815Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="sDdJXOWMbdvmRDa7zxmz" version="14.6.13" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2021-05-22T23:24:37.603Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dlF5qfgJCkimghRt9wsI" version="14.6.13" type="github" pages="22">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2711,7 +2711,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vJocxhL_lk6Ew5KGGAK3" name="Page-22">
+  <diagram id="vJocxhL_lk6Ew5KGGAK3" name="Music_Lifecylce">
     <mxGraphModel dx="1946" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hAIAig2cKfbaMstPSKPB-0" />
@@ -2753,6 +2753,32 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="270" as="sourcePoint" />
             <mxPoint x="940" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSVaVAoViv3QqEPzEA_F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="hAIAig2cKfbaMstPSKPB-1" source="ThdICIajoiUTzNdj4Z_1-11" target="ThdICIajoiUTzNdj4Z_1-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="240" />
+              <mxPoint x="1010" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSVaVAoViv3QqEPzEA_F-4" value="Dependencies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wSVaVAoViv3QqEPzEA_F-3">
+          <mxGeometry x="-0.0613" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSVaVAoViv3QqEPzEA_F-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hAIAig2cKfbaMstPSKPB-1" source="ThdICIajoiUTzNdj4Z_1-11" target="ThdICIajoiUTzNdj4Z_1-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="975" y="90" />
+              <mxPoint x="500" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSVaVAoViv3QqEPzEA_F-6" value="Dependencies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wSVaVAoViv3QqEPzEA_F-5">
+          <mxGeometry x="-0.4275" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ThdICIajoiUTzNdj4Z_1-11" value="Artist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;sketch=0;fillColor=#FAFAFA;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
@@ -2858,7 +2884,13 @@
           <mxGeometry x="580" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6QA1K3hmu2YV24oLVIHg-17" value="Rechteinhaber&lt;br&gt;(60 - 70%)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
-          <mxGeometry x="915" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="915" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSVaVAoViv3QqEPzEA_F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hAIAig2cKfbaMstPSKPB-1" source="wSVaVAoViv3QqEPzEA_F-0" target="ThdICIajoiUTzNdj4Z_1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSVaVAoViv3QqEPzEA_F-0" value="Last link in the food chain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="1040" y="240" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

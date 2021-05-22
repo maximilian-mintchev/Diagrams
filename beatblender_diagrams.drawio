@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T14:02:39.035Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="pjWBx1xwt4r5tta-x8Pc" version="14.6.13" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-05-22T14:17:09.783Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="m6RvI1YlaF_drhrtEmh0" version="14.6.13" type="github" pages="17">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2071,6 +2071,13 @@
         <mxCell id="WaA-03F2NFmYtys3dv6g-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
           <mxGeometry x="580" y="260" width="40" height="320" as="geometry" />
         </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-8" target="WaA-03F2NFmYtys3dv6g-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaA-03F2NFmYtys3dv6g-8" value="Music Production" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
           <mxGeometry x="215" y="450" width="130" height="20" as="geometry" />
         </mxCell>
@@ -2078,13 +2085,7 @@
           <mxGeometry x="535" y="440" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WaA-03F2NFmYtys3dv6g-11" value="&lt;h1&gt;Entry Barriers&lt;/h1&gt;&lt;p&gt;Instruments&lt;/p&gt;&lt;p&gt;Production Software&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=black;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
-          <mxGeometry x="-70" y="150" width="190" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="WaA-03F2NFmYtys3dv6g-12" value="" style="endArrow=none;html=1;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="470" as="sourcePoint" />
-            <mxPoint x="140" y="530" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-70" y="150" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WaA-03F2NFmYtys3dv6g-13" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" target="WaA-03F2NFmYtys3dv6g-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2093,13 +2094,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-14" target="WaA-03F2NFmYtys3dv6g-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WaA-03F2NFmYtys3dv6g-14" value="Sample Market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
-          <mxGeometry x="130" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WaA-03F2NFmYtys3dv6g-15" value="Open Source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
-          <mxGeometry x="20" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WaA-03F2NFmYtys3dv6g-16" value="" style="endArrow=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-8">
+        <mxCell id="WaA-03F2NFmYtys3dv6g-16" value="" style="endArrow=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-8" target="WaA-03F2NFmYtys3dv6g-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="480" as="sourcePoint" />
             <mxPoint x="150" y="620" as="targetPoint" />
@@ -2116,8 +2117,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-18" target="WaA-03F2NFmYtys3dv6g-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="810" />
+              <mxPoint x="320" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaA-03F2NFmYtys3dv6g-18" value="Criminality Usage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
           <mxGeometry x="215" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="103" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WaA-03F2NFmYtys3dv6g-20" value="Rights Agents (Labels, Extra Services)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
           <mxGeometry x="390" y="540" width="120" height="60" as="geometry" />
@@ -2135,7 +2149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WaA-03F2NFmYtys3dv6g-24" value="Streaming Platforms&lt;br&gt;(Spotify, Amazon Music, Youtube Music, Soundcloud)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
-          <mxGeometry x="450" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WaA-03F2NFmYtys3dv6g-25" value="Events&lt;br&gt;(Parties, Festivals)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
           <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
@@ -2174,8 +2188,57 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-33" target="WaA-03F2NFmYtys3dv6g-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.554;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" target="WaA-03F2NFmYtys3dv6g-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346" y="694" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WaA-03F2NFmYtys3dv6g-33" value="Open Source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
           <mxGeometry x="294" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-36" target="WaA-03F2NFmYtys3dv6g-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-36" value="&lt;h1&gt;High Production Costs&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
+          <mxGeometry x="30" y="830" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-38" target="WaA-03F2NFmYtys3dv6g-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-38" value="&lt;h1&gt;&lt;span&gt;Criminal Acting&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
+          <mxGeometry x="145" y="1020" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-41" value="Lifecycle" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
+          <mxGeometry x="-170" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-42" value="Tools and Platforms" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
+          <mxGeometry x="-170" y="550" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-43" value="Arising Problems" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
+          <mxGeometry x="-200" y="850" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-45" target="WaA-03F2NFmYtys3dv6g-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-45" value="&lt;h1&gt;Downloader Incentives too high and Uploader Incentives too low&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
+          <mxGeometry x="375" y="850" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WaA-03F2NFmYtys3dv6g-1" source="WaA-03F2NFmYtys3dv6g-50" target="WaA-03F2NFmYtys3dv6g-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="750" />
+              <mxPoint x="495" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-50" value="Creative Commons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
+          <mxGeometry x="120" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaA-03F2NFmYtys3dv6g-53" value="&lt;h1&gt;Bad Sample Culture&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WaA-03F2NFmYtys3dv6g-1">
+          <mxGeometry x="110" y="1240" width="390" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

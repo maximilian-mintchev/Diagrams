@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T23:56:20.062Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lze72qKJgKec9C4dcyMd" version="14.6.13" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2021-05-22T23:59:06.443Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="OJltXcv6O9IU0qDxOhD3" version="14.6.13" type="github" pages="22">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2895,8 +2895,8 @@
         <mxCell id="wSVaVAoViv3QqEPzEA_F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="hAIAig2cKfbaMstPSKPB-1" source="wSVaVAoViv3QqEPzEA_F-9" target="6QA1K3hmu2YV24oLVIHg-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wSVaVAoViv3QqEPzEA_F-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/rich-128.png;shadow=0;sketch=0;fontSize=17;fillColor=#FAFAFA;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
-          <mxGeometry x="-130" y="216" width="44" height="44" as="geometry" />
+        <mxCell id="wSVaVAoViv3QqEPzEA_F-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;External Financial Ressources&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/rich-128.png;shadow=0;sketch=0;fontSize=17;fillColor=#FAFAFA;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="-200" y="200" width="44" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

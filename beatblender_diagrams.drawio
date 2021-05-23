@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T01:23:46.375Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="wHwJADkSOI3mllcX7n72" version="14.6.13" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2021-05-23T01:26:23.947Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HZvuXglXukGb-xvGtzh_" version="14.6.13" type="github" pages="24">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3014,7 +3014,7 @@
         <mxCell id="zJRguLuvSVIzV3L4R8Sx-0" />
         <mxCell id="zJRguLuvSVIzV3L4R8Sx-1" parent="zJRguLuvSVIzV3L4R8Sx-0" />
         <mxCell id="m2gX08pm2r0z3M8TPDUX-0" value="Stakeholders" style="swimlane;rounded=1;shadow=0;glass=1;sketch=0;fontSize=17;strokeWidth=1;fillColor=#FAFAFA;" vertex="1" parent="zJRguLuvSVIzV3L4R8Sx-1">
-          <mxGeometry x="-93" y="-60" width="1013" height="630" as="geometry" />
+          <mxGeometry x="-93" y="-60" width="1083" height="690" as="geometry" />
         </mxCell>
         <mxCell id="m2gX08pm2r0z3M8TPDUX-4" value="Artist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;shadow=0;glass=1;sketch=0;fontSize=17;strokeColor=#000000;strokeWidth=1;fillColor=#FAFAFA;" vertex="1" parent="m2gX08pm2r0z3M8TPDUX-0">
           <mxGeometry x="233" y="210" width="30" height="60" as="geometry" />

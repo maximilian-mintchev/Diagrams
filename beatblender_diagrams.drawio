@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T00:38:46.994Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vFZp0IhRwCaeLgGy_1iq" version="14.6.13" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2021-05-23T00:48:17.771Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CNbSsxtNUqhKdLNZ-1qa" version="14.6.13" type="github" pages="24">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2901,7 +2901,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="wom-JOJI4FdBzo4EFDDl" name="Page-23">
+  <diagram id="wom-JOJI4FdBzo4EFDDl" name="Cashflow">
     <mxGraphModel dx="1119" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="98EcFsC6eodugvROCVSj-0" />
@@ -3008,11 +3008,43 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="uIm4YlXQ16YoKpdpeL3M" name="Page-24">
-    <mxGraphModel dx="1119" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="uIm4YlXQ16YoKpdpeL3M" name="Stakeholders">
+    <mxGraphModel dx="1946" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zJRguLuvSVIzV3L4R8Sx-0" />
         <mxCell id="zJRguLuvSVIzV3L4R8Sx-1" parent="zJRguLuvSVIzV3L4R8Sx-0" />
+        <mxCell id="m2gX08pm2r0z3M8TPDUX-0" value="Stakeholders" style="swimlane;rounded=1;shadow=0;glass=1;sketch=0;fontSize=17;strokeWidth=3;fillColor=#FAFAFA;" vertex="1" parent="zJRguLuvSVIzV3L4R8Sx-1">
+          <mxGeometry x="-93" y="60" width="920" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="m2gX08pm2r0z3M8TPDUX-4" value="Artist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;shadow=0;glass=1;sketch=0;fontSize=17;strokeColor=#000000;strokeWidth=3;fillColor=#FAFAFA;" vertex="1" parent="m2gX08pm2r0z3M8TPDUX-0">
+          <mxGeometry x="133" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2gX08pm2r0z3M8TPDUX-1" value="Downloader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;shadow=0;glass=1;sketch=0;fontSize=17;strokeColor=#000000;strokeWidth=3;fillColor=#FAFAFA;" vertex="1" parent="m2gX08pm2r0z3M8TPDUX-0">
+          <mxGeometry x="53" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2gX08pm2r0z3M8TPDUX-9" value="" style="endArrow=block;endSize=16;endFill=0;html=1;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="m2gX08pm2r0z3M8TPDUX-0" source="m2gX08pm2r0z3M8TPDUX-1" target="m2gX08pm2r0z3M8TPDUX-4">
+          <mxGeometry x="0.125" y="-10" width="160" relative="1" as="geometry">
+            <mxPoint x="383" y="270" as="sourcePoint" />
+            <mxPoint x="543" y="270" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m2gX08pm2r0z3M8TPDUX-11" value="Platform Owners" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;shadow=0;glass=1;sketch=0;fontSize=17;strokeColor=#000000;strokeWidth=3;fillColor=#FAFAFA;" vertex="1" parent="m2gX08pm2r0z3M8TPDUX-0">
+          <mxGeometry x="445" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2gX08pm2r0z3M8TPDUX-14" value="Hörer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=1;shadow=0;glass=1;sketch=0;fontSize=17;strokeColor=#000000;strokeWidth=3;fillColor=#FAFAFA;" vertex="1" parent="m2gX08pm2r0z3M8TPDUX-0">
+          <mxGeometry x="763" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2gX08pm2r0z3M8TPDUX-3" value="Uploader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;shadow=0;glass=1;sketch=0;fontSize=17;strokeColor=#000000;strokeWidth=3;fillColor=#FAFAFA;" vertex="1" parent="zJRguLuvSVIzV3L4R8Sx-1">
+          <mxGeometry x="140" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2gX08pm2r0z3M8TPDUX-10" value="" style="endArrow=block;endSize=16;endFill=0;html=1;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zJRguLuvSVIzV3L4R8Sx-1" source="m2gX08pm2r0z3M8TPDUX-3" target="m2gX08pm2r0z3M8TPDUX-4">
+          <mxGeometry x="0.125" y="-10" width="160" relative="1" as="geometry">
+            <mxPoint x="-15" y="270" as="sourcePoint" />
+            <mxPoint x="50" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

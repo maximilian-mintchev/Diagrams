@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T23:48:28.768Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fK_eEr1tfirv64wsHWBo" version="14.7.0" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2021-05-23T23:57:19.075Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="tsyIWJSnRiEx0SOk_HoZ" version="14.7.0" type="github" pages="25">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3135,30 +3135,57 @@
         <mxCell id="b3cOHHh7MRS_g8aukoT5-1" parent="b3cOHHh7MRS_g8aukoT5-0" />
         <mxCell id="b3cOHHh7MRS_g8aukoT5-2" value="" style="endArrow=classic;html=1;fillColor=#66FF66;" edge="1" parent="b3cOHHh7MRS_g8aukoT5-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="280" as="sourcePoint" />
-            <mxPoint x="680" y="280" as="targetPoint" />
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="670" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b3cOHHh7MRS_g8aukoT5-3" value="" style="endArrow=classic;html=1;fillColor=#66FF66;" edge="1" parent="b3cOHHh7MRS_g8aukoT5-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="280" as="sourcePoint" />
-            <mxPoint x="160" y="-40" as="targetPoint" />
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="150" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b3cOHHh7MRS_g8aukoT5-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=#66FF66;" edge="1" parent="b3cOHHh7MRS_g8aukoT5-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="280" as="sourcePoint" />
-            <mxPoint x="200" as="targetPoint" />
+            <mxPoint x="190" y="360" as="sourcePoint" />
+            <mxPoint x="190" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b3cOHHh7MRS_g8aukoT5-6" value="" style="endArrow=none;html=1;fillColor=#009900;" edge="1" parent="b3cOHHh7MRS_g8aukoT5-1">
+        <mxCell id="b3cOHHh7MRS_g8aukoT5-6" value="" style="endArrow=none;html=1;fillColor=#009900;curved=1;" edge="1" parent="b3cOHHh7MRS_g8aukoT5-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" as="sourcePoint" />
-            <mxPoint x="660" y="280" as="targetPoint" />
+            <mxPoint x="150" y="80" as="sourcePoint" />
+            <mxPoint x="650" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="250" />
+              <mxPoint x="190" y="330" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="b3cOHHh7MRS_g8aukoT5-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=5;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="b3cOHHh7MRS_g8aukoT5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="180" as="sourcePoint" />
+            <mxPoint x="690" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3cOHHh7MRS_g8aukoT5-11" value="Registered Artists" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="b3cOHHh7MRS_g8aukoT5-1">
+          <mxGeometry x="620" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b3cOHHh7MRS_g8aukoT5-12" value="0.99%" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="b3cOHHh7MRS_g8aukoT5-1">
+          <mxGeometry x="200" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b3cOHHh7MRS_g8aukoT5-13" value="0.1%" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="b3cOHHh7MRS_g8aukoT5-1">
+          <mxGeometry x="30" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b3cOHHh7MRS_g8aukoT5-14" value="" style="endArrow=none;html=1;fillColor=#009900;" edge="1" parent="b3cOHHh7MRS_g8aukoT5-1" source="b3cOHHh7MRS_g8aukoT5-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="160" y="266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3cOHHh7MRS_g8aukoT5-16" value="Income" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="b3cOHHh7MRS_g8aukoT5-1">
+          <mxGeometry y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b3cOHHh7MRS_g8aukoT5-20" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Every Artist under this line gets less from Spotify than he would get stream-based&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="b3cOHHh7MRS_g8aukoT5-1">
+          <mxGeometry x="320" y="110" width="370" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

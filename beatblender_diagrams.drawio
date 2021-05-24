@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T19:04:09.863Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0CBOPT62btybY1GaYg_W" version="14.7.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2021-05-24T19:45:37.019Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-44tLif7YnCPdB7cN7zz" version="14.7.0" type="github" pages="26">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2806,7 +2806,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ThdICIajoiUTzNdj4Z_1-20" value="Sample C" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;shadow=0;sketch=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
-          <mxGeometry x="270" y="320" width="100" height="50" as="geometry" />
+          <mxGeometry x="270" y="320" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ThdICIajoiUTzNdj4Z_1-21" value="" style="triangle;html=1;whiteSpace=wrap;" parent="ThdICIajoiUTzNdj4Z_1-20" vertex="1">
           <mxGeometry x="10" y="15" width="10" height="20" as="geometry" />
@@ -2853,7 +2853,7 @@
         <mxCell id="6QA1K3hmu2YV24oLVIHg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.38;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" parent="hAIAig2cKfbaMstPSKPB-1" source="6QA1K3hmu2YV24oLVIHg-3" target="ThdICIajoiUTzNdj4Z_1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6QA1K3hmu2YV24oLVIHg-3" value="Artist 3" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;sketch=0;fillColor=#1A1A1A;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
+        <mxCell id="6QA1K3hmu2YV24oLVIHg-3" value="Uploader 3" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;sketch=0;fillColor=#1A1A1A;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
           <mxGeometry x="320" y="440" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6QA1K3hmu2YV24oLVIHg-8" value="Upload Sample" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
@@ -2897,6 +2897,12 @@
         </mxCell>
         <mxCell id="wSVaVAoViv3QqEPzEA_F-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;External Financial Ressources&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/rich-128.png;shadow=0;sketch=0;fontSize=17;fillColor=#FAFAFA;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
           <mxGeometry x="-200" y="200" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/multimedia-75/512/multimedia-12-128.png;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="202" y="180" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/brands-outlined-3/224/spotify-social-network-brand-logo-128.png;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="522" y="190" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

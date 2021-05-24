@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T13:53:16.966Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JhXdeSpIPwKvq1yFdhf2" version="14.7.0" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2021-05-24T18:04:25.426Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="aIys7B0aR1KMufKe7HiC" version="14.7.0" type="github" pages="26">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3244,6 +3244,35 @@
         </mxCell>
         <mxCell id="3rGc-F-ev8F7INgVof6c-0" value="Income" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="b3cOHHh7MRS_g8aukoT5-1">
           <mxGeometry x="20" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IwrAlu1sjo7iMlCbujDO" name="Core_Stack">
+    <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0dO0_4lMPffCaaRISyW5-0" />
+        <mxCell id="0dO0_4lMPffCaaRISyW5-1" parent="0dO0_4lMPffCaaRISyW5-0" />
+        <mxCell id="0dO0_4lMPffCaaRISyW5-2" value="Financial + Moral Incentives" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="0dO0_4lMPffCaaRISyW5-1">
+          <mxGeometry x="14.01" y="440" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0dO0_4lMPffCaaRISyW5-3" value="Sample Right Clearing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad9d5;rotation=-90;strokeColor=#ae4132;" vertex="1" parent="0dO0_4lMPffCaaRISyW5-1">
+          <mxGeometry x="9" y="210" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0dO0_4lMPffCaaRISyW5-6" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;rotation=-90;strokeColor=#9673a6;" vertex="1" parent="0dO0_4lMPffCaaRISyW5-1">
+          <mxGeometry x="355.38" y="-326.12" width="109.75" height="782.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0dO0_4lMPffCaaRISyW5-7" value="Free Sample Culture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="0dO0_4lMPffCaaRISyW5-1">
+          <mxGeometry x="304.13" y="90" width="219.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0dO0_4lMPffCaaRISyW5-8" value="License Management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#eeeeee;rotation=-90;strokeColor=#36393d;" vertex="1" parent="0dO0_4lMPffCaaRISyW5-1">
+          <mxGeometry x="290" y="210" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0dO0_4lMPffCaaRISyW5-9" value="Music Distribution" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;rotation=-90;strokeColor=#82b366;" vertex="1" parent="0dO0_4lMPffCaaRISyW5-1">
+          <mxGeometry x="570" y="210" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0dO0_4lMPffCaaRISyW5-11" value="Core Concepts" style="swimlane;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="0dO0_4lMPffCaaRISyW5-1">
+          <mxGeometry x="-100" y="-90" width="1010" height="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

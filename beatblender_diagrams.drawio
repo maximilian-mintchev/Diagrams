@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T18:04:25.426Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="aIys7B0aR1KMufKe7HiC" version="14.7.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2021-05-24T18:16:01.023Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="uzj281lzi38lHDvpfqIy" version="14.7.0" type="github" pages="26">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3272,7 +3272,7 @@
           <mxGeometry x="570" y="210" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0dO0_4lMPffCaaRISyW5-11" value="Core Concepts" style="swimlane;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="0dO0_4lMPffCaaRISyW5-1">
-          <mxGeometry x="-100" y="-90" width="1010" height="680" as="geometry" />
+          <mxGeometry x="-100" y="-50" width="1030" height="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

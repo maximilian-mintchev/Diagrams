@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T19:45:37.019Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-44tLif7YnCPdB7cN7zz" version="14.7.0" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2021-05-24T19:50:41.295Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="X17HvCcjRI7M9RWwC5Iw" version="14.7.0" type="github" pages="26">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2712,14 +2712,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vJocxhL_lk6Ew5KGGAK3" name="Music_Lifecylce">
-    <mxGraphModel dx="1946" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hAIAig2cKfbaMstPSKPB-0" />
         <mxCell id="hAIAig2cKfbaMstPSKPB-1" parent="hAIAig2cKfbaMstPSKPB-0" />
         <mxCell id="ThdICIajoiUTzNdj4Z_1-0" value="Sample Market" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#ffcccc;strokeColor=#36393d;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThdICIajoiUTzNdj4Z_1-1" value="Spotify" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
+        <mxCell id="ThdICIajoiUTzNdj4Z_1-1" value="Distribution" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
           <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ThdICIajoiUTzNdj4Z_1-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="hAIAig2cKfbaMstPSKPB-1" source="ThdICIajoiUTzNdj4Z_1-0" edge="1">
@@ -2902,7 +2902,34 @@
           <mxGeometry x="202" y="180" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="lEZBtiKhkqoCPxQW61XR-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/brands-outlined-3/224/spotify-social-network-brand-logo-128.png;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
-          <mxGeometry x="522" y="190" width="38" height="38" as="geometry" />
+          <mxGeometry x="376" y="250" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/materia-flat-social-free/24/038_022_soundcloud_social_network_android_material-128.png;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="420" y="148" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2275/64/deezer-128.png;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="432" y="268" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2259/512/youtube-128.png;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="524" y="268" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/Tabs_Color_Social/40/Amazon.png;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="530" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=20;strokeWidth=2;" edge="1" parent="hAIAig2cKfbaMstPSKPB-1" source="lEZBtiKhkqoCPxQW61XR-9" target="ThdICIajoiUTzNdj4Z_1-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-9" value="Where BeatBlender starts aqcuiring artists" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="5" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=20;strokeWidth=2;" edge="1" parent="hAIAig2cKfbaMstPSKPB-1" source="lEZBtiKhkqoCPxQW61XR-11" target="ThdICIajoiUTzNdj4Z_1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-11" value="Where Spotify, Soundcloud, Amazon Music and co. start aqcuiring artists" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="450" y="-10" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEZBtiKhkqoCPxQW61XR-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=20;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="210" y="170" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

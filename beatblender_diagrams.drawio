@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T23:58:55.844Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QX2t3r860jL3s8JTzHop" version="14.7.0" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2021-05-24T00:03:09.381Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Y79l1nzzLnzdKuWq6H89" version="14.7.0" type="github" pages="25">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3147,8 +3147,8 @@
         </mxCell>
         <mxCell id="b3cOHHh7MRS_g8aukoT5-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=#66FF66;" edge="1" parent="b3cOHHh7MRS_g8aukoT5-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="360" as="sourcePoint" />
-            <mxPoint x="190" y="40" as="targetPoint" />
+            <mxPoint x="170" y="360" as="sourcePoint" />
+            <mxPoint x="170" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b3cOHHh7MRS_g8aukoT5-6" value="" style="endArrow=none;html=1;fillColor=#009900;curved=1;" edge="1" parent="b3cOHHh7MRS_g8aukoT5-1">
@@ -3156,7 +3156,7 @@
             <mxPoint x="150" y="80" as="sourcePoint" />
             <mxPoint x="650" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="330" />
+              <mxPoint x="130" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>

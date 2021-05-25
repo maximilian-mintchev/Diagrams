@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T22:18:22.777Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="nFBOdYu9lARZ449PunVH" version="14.7.0" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2021-05-25T22:49:07.259Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="rns6Ep211L0iD4gTNMDW" version="14.7.0" type="github" pages="29">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2578,13 +2578,13 @@
           <mxGeometry x="20" y="335" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="27gDtWhez15qXdj6tMAu-18" value="Criminal Acting Incentives" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;sketch=0;" parent="27gDtWhez15qXdj6tMAu-2" vertex="1">
-          <mxGeometry x="60" y="500" width="270" height="40" as="geometry" />
+          <mxGeometry x="60" y="530" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="27gDtWhez15qXdj6tMAu-19" value="" style="html=1;shadow=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;whiteSpace=wrap;labelBorderColor=#000000;sketch=0;fillColor=#cce5ff;" parent="27gDtWhez15qXdj6tMAu-2" vertex="1">
-          <mxGeometry x="413.5" y="510" width="270" height="20" as="geometry" />
+          <mxGeometry x="413.5" y="540" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="27gDtWhez15qXdj6tMAu-21" value="" style="html=1;shadow=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;whiteSpace=wrap;labelBorderColor=#000000;sketch=0;fillColor=#cce5ff;" parent="27gDtWhez15qXdj6tMAu-2" vertex="1">
-          <mxGeometry x="760" y="510" width="270" height="20" as="geometry" />
+          <mxGeometry x="760" y="540" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="27gDtWhez15qXdj6tMAu-22" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButtonStriped;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;" parent="27gDtWhez15qXdj6tMAu-21" vertex="1">
           <mxGeometry width="260" height="20" as="geometry" />
@@ -2608,7 +2608,22 @@
           <mxGeometry width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="27gDtWhez15qXdj6tMAu-20" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButtonStriped;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;" parent="27gDtWhez15qXdj6tMAu-2" vertex="1">
-          <mxGeometry x="415" y="510" width="260" height="20" as="geometry" />
+          <mxGeometry x="415" y="540" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7-ySCnfgiTJma1b---In-0" value="Vertragschaoes" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;sketch=0;" vertex="1" parent="27gDtWhez15qXdj6tMAu-2">
+          <mxGeometry x="10" y="480" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7-ySCnfgiTJma1b---In-1" value="" style="html=1;shadow=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;whiteSpace=wrap;labelBorderColor=#000000;sketch=0;fillColor=#cce5ff;" vertex="1" parent="27gDtWhez15qXdj6tMAu-2">
+          <mxGeometry x="413.5" y="490" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7-ySCnfgiTJma1b---In-2" value="" style="html=1;shadow=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;whiteSpace=wrap;labelBorderColor=#000000;sketch=0;fillColor=#cce5ff;" vertex="1" parent="27gDtWhez15qXdj6tMAu-2">
+          <mxGeometry x="760" y="490" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7-ySCnfgiTJma1b---In-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButtonStriped;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="7-ySCnfgiTJma1b---In-2">
+          <mxGeometry width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7-ySCnfgiTJma1b---In-4" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButtonStriped;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="27gDtWhez15qXdj6tMAu-2">
+          <mxGeometry x="415" y="490" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="27gDtWhez15qXdj6tMAu-28" value="" style="group" parent="27gDtWhez15qXdj6tMAu-1" vertex="1" connectable="0">
           <mxGeometry x="560" y="-10" width="100" height="120" as="geometry" />
@@ -3367,7 +3382,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5pinkaM4XQQwVTrveC6S" name="Page-28">
+  <diagram id="5pinkaM4XQQwVTrveC6S" name="Iceberg_Metapher">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bUq4bsdkG5tS7eXU6U2g-0" />
@@ -3425,6 +3440,44 @@
         </mxCell>
         <mxCell id="bUq4bsdkG5tS7eXU6U2g-21" value="Legal Music" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="bUq4bsdkG5tS7eXU6U2g-1">
           <mxGeometry x="-100" y="32.5" width="250" height="215" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8Mqx48q8iPqwjy1n9Efo" name="Player_Anreize">
+    <mxGraphModel dx="1119" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-0" />
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-1" parent="42uB9VnJlqxgx0ZeGlBT-0" />
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-2" value="Bedürfnisse" style="swimlane;fontSize=20;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-1">
+          <mxGeometry x="140" y="160" width="1020" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-3" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-1">
+          <mxGeometry x="140" y="180" width="1020" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-3">
+          <mxGeometry width="1020" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-5" value="Uploader" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-4">
+          <mxGeometry width="340" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-6" value="Downloader" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-4">
+          <mxGeometry x="340" width="340" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-7" value="Platform" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-4">
+          <mxGeometry x="680" width="340" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-3">
+          <mxGeometry y="66" width="1020" height="474" as="geometry" />
+        </mxCell>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-9" value="&lt;ul&gt;&lt;li&gt;&lt;span id=&quot;docs-internal-guid-2716ff6e-7fff-4e94-c303-aba9794f614c&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;Kontrolle darüber zu haben, wie seine Arbeit von anderen Schöpfern verwendet wird (Sicherheiten und Gewährleistungen)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Entschädigung für die Verwendung&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-8">
+          <mxGeometry width="340" height="474" as="geometry" />
+        </mxCell>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-10" value="&lt;ul&gt;&lt;li&gt;Keine Geld für Samples ausgeben (moralisch)&lt;/li&gt;&lt;li&gt;Trotzdem das die die produzierte Musik kommerziell nutzen (kommerziell)&lt;/li&gt;&lt;li&gt;Rechtssicherheit bei kommerziller Nutzung (Sicherheit und Gewährleistungen)&lt;/li&gt;&lt;li&gt;kein Vertragschaoes ()&lt;/li&gt;&lt;li&gt;Die produzierte Musik kommerziell nutzen können&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-8">
+          <mxGeometry x="340" width="340" height="474" as="geometry" />
+        </mxCell>
+        <mxCell id="42uB9VnJlqxgx0ZeGlBT-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="42uB9VnJlqxgx0ZeGlBT-8">
+          <mxGeometry x="680" width="340" height="474" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

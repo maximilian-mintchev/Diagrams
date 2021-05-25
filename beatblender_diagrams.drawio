@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T12:02:53.465Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GqNuxXUyBGAUjmK5gmLV" version="14.7.0" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2021-05-25T12:03:35.779Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="pybGW3v8b9Z43Ju1Yj4P" version="14.7.0" type="github" pages="28">
   <diagram id="GSHQoXWdDnwxuEsXmZNg" name="BB_Class-Diagramm">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2716,6 +2716,9 @@
       <root>
         <mxCell id="hAIAig2cKfbaMstPSKPB-0" />
         <mxCell id="hAIAig2cKfbaMstPSKPB-1" parent="hAIAig2cKfbaMstPSKPB-0" />
+        <mxCell id="efndX79wNwCG9AOkK1OS-0" value="Music Lifecycle" style="swimlane;fontSize=20;strokeWidth=1;fillColor=#FFFFFF;swimlaneFillColor=#ffffff;" vertex="1" parent="hAIAig2cKfbaMstPSKPB-1">
+          <mxGeometry x="-300" y="-60" width="1550" height="660" as="geometry" />
+        </mxCell>
         <mxCell id="ThdICIajoiUTzNdj4Z_1-0" value="Sample Market" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#ffcccc;strokeColor=#36393d;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2783,9 +2786,6 @@
         </mxCell>
         <mxCell id="ThdICIajoiUTzNdj4Z_1-11" value="Artist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=0;sketch=0;fillColor=#FAFAFA;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
           <mxGeometry x="960" y="220" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ThdICIajoiUTzNdj4Z_1-13" value="Music Lifecycle" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;sketch=0;" parent="hAIAig2cKfbaMstPSKPB-1" vertex="1">
-          <mxGeometry x="120" y="10" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ThdICIajoiUTzNdj4Z_1-16" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="hAIAig2cKfbaMstPSKPB-1" source="6QA1K3hmu2YV24oLVIHg-0" target="ThdICIajoiUTzNdj4Z_1-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

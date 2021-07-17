@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T22:44:51.404Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mILE3ydKu59OJTzom183" version="14.8.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-07-17T22:47:14.617Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9qB58mioX4J0dfdgs6vw" version="14.8.6" type="github" pages="13">
   <diagram id="iNplbkAtpdv_hVKdXrZk" name="Page1">
     <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1685,14 +1685,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mjiCtR1B9yRllGazkB57" name="Page-9">
-    <mxGraphModel dx="3065" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1946" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bbDxbELxv42uYg61LzI3-0" />
         <mxCell id="bbDxbELxv42uYg61LzI3-1" parent="bbDxbELxv42uYg61LzI3-0" />
         <mxCell id="bbDxbELxv42uYg61LzI3-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;strokeWidth=3;shadow=1;" parent="bbDxbELxv42uYg61LzI3-1" vertex="1">
           <mxGeometry x="15" y="15" width="610" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="bbDxbELxv42uYg61LzI3-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeWidth=3;strokeColor=#666666;shadow=0;perimeterSpacing=0;fontColor=#333333;" parent="bbDxbELxv42uYg61LzI3-1" vertex="1">
+        <mxCell id="bbDxbELxv42uYg61LzI3-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeWidth=3;strokeColor=#82b366;shadow=0;perimeterSpacing=0;" parent="bbDxbELxv42uYg61LzI3-1" vertex="1">
           <mxGeometry x="160.01" y="160" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="bbDxbELxv42uYg61LzI3-4" value="Spotify" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;" parent="bbDxbELxv42uYg61LzI3-1" vertex="1">
@@ -1889,7 +1889,7 @@
             <mxPoint x="424.3800000000001" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bbDxbELxv42uYg61LzI3-61" value="&lt;font color=&quot;#666666&quot;&gt;&lt;b&gt;BeatBlender Label&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=3;fillColor=#F5F5F5;gradientColor=none;" parent="bbDxbELxv42uYg61LzI3-1" vertex="1">
+        <mxCell id="bbDxbELxv42uYg61LzI3-61" value="&lt;font color=&quot;#666666&quot;&gt;&lt;b&gt;BeatBlender Label&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="bbDxbELxv42uYg61LzI3-1" vertex="1">
           <mxGeometry x="265" y="460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vg-m0HaYPUTSoJ35Cq5k-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/07.Wallet-128.png;fillColor=#D69090;sketch=1;" vertex="1" parent="bbDxbELxv42uYg61LzI3-1">
